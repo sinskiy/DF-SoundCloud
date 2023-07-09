@@ -3,15 +3,14 @@
 function main() {
     // individual
     // select
-    const rightMenu = document.querySelector(".header__right");
+    let logo = document.querySelector(".header__logoLink")
+        ?? document.querySelector(".peace-logo .header__logoLink")
+        ?? document.querySelector(".logo");
+    const rightMenu = document?.querySelector(".header__right");
 
     //delete
-    // i need to use this crazy tertiary operator because logo can change during the usage
-    document.querySelector(".header__logoLink")
-     ? document.querySelector(".header__logoLink").style.display = "none"
-     : document.querySelector(".peace-logo .header__logoLink").style.display = "none";
-
-    rightMenu.style.display = "none";
+    logo.style.display = "none";
+    if (rightMenu) rightMenu.style.display = "none";
 
     // multiple
     // select
@@ -25,9 +24,6 @@ function main() {
         }
     });
 }
-
-// run on page load
-main();
 
 //run every 1s
 const checkHeader = setInterval(() => {

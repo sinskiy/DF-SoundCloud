@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "priority": 1,
+        "action": { "type": "redirect", "redirect": { "url": "https://soundcloud.com/you/library" } },
+        "condition": {
+            "urlFilter": "soundcloud.com/feed"
+        }
+    },
+    {
+        "id": 2,
+        "priority": 1,
+        "action": { "type": "redirect", "redirect": { "url": "https://soundcloud.com/you/library" } },
+        "condition": {
+            "urlFilter": "soundcloud.com/discover"
+        }
+    }
+]
