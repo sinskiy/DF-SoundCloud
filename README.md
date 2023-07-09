@@ -13,9 +13,7 @@ I believe that ***social medias are unnessesary*** in our lifes. I already left 
 
 ### 📥 Installation
 
-*copied (and slightly edited) from [Seterra extra (my extension for Seterra)](https://github.com/Sinskiy/seterraextra) installation guide*
-
-1. Download [crx file from latest release file](https://github.com/Sinskiy/DF-SoundCloud/releases/latest)
+1. Download [crx file](https://github.com/Sinskiy/DF-SoundCloud/releases/latest)
 
 2. Go to window for managing extensions in your browser
 
@@ -33,12 +31,4 @@ I believe that ***social medias are unnessesary*** in our lifes. I already left 
 
 4. Drag & Drop .crx file that you downloaded
 
-Now, extension should appear in `Extensions` toolbar. I suggest to pin it
-
-<details>
-<summary>How?</summary>
-
-1. Click on `Extensions` icon
-2. Click on `Pin` icon near **DF_SoundCloud** extension
-
-</details>
+Now extension will work for SoundCloud. Although if you have active windows opened before, you should reload them
