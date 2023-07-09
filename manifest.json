@@ -1,6 +1,6 @@
 {
     "name": "DF SoundCloud",
-    "version": "0.1",
+    "version": "0.2",
     "description": "Distraction free SoundCloud. Inspired by DF Tube",
     "host_permissions": ["https://*.soundcloud.com/*"],
     "permissions": ["activeTab"],
