@@ -3,7 +3,7 @@
     "version": "0.1",
     "description": "Distraction free SoundCloud. Inspired by DF Tube",
     "host_permissions": ["https://*.soundcloud.com/*"],
-    "permissions": ["activeTab", "storage"],
+    "permissions": ["activeTab"],
     "manifest_version": 3,
     "content_scripts": [
       {
