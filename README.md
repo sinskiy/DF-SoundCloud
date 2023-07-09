@@ -15,24 +15,9 @@ I believe that ***social medias are unnessesary*** in our lifes. I already left 
 
 *copied (and slightly edited) from [Seterra extra (my extension for Seterra)](https://github.com/Sinskiy/seterraextra) installation guide*
 
-1. Download ZIP file of my repo or clone my repo
+1. Download [crx file from latest release file](https://github.com/Sinskiy/DF-SoundCloud/releases/tag/v1.0.0)
 
-    <details>
-    <summary>Clone repo commands</summary>
-
-    ```
-    git clone https://github.com/Sinskiy/DF-SoundCloud.git
-    ```
-
-    with github cli
-    ```
-    gh repo clone Sinskiy/DF-SoundCloud
-    ```
-    </details>
-
-2. Extract your zip file (*if you downloaded zip*)
-
-3. Go to window for managing extensions in your browser
+2. Go to window for managing extensions in your browser
 
     <details>
     <summary>How?</summary>
@@ -44,11 +29,9 @@ I believe that ***social medias are unnessesary*** in our lifes. I already left 
 
     </details>
 
-4. Toggle on `Developer mode` in the top right corner of the window for managing extensions
+3. Toggle on `Developer mode` in the top right corner of the window for managing extensions
 
-5. Choose "Load unpacked"
-
-6. Load folder **DF_SoundCloud** (not zip). Don't upload wrong folder!
+4. Drag & Drop .crx file that you downloaded
 
 Now, extension should appear in `Extensions` toolbar. I suggest to pin it
 
