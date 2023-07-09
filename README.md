@@ -29,7 +29,6 @@ I believe that ***social medias are unnessesary*** in our lifes. I already left 
     gh repo clone Sinskiy/DF-SoundCloud
     ```
     </details>
-    </br>
 
 2. Extract your zip file (*if you downloaded zip*)
 
@@ -44,8 +43,6 @@ I believe that ***social medias are unnessesary*** in our lifes. I already left 
     2. Click on *Extensions* icon in the top right corner, between URL bar and *Hamburger* icon. Then click on `Manage extensions`
 
     </details>
-
-    </br>
 
 4. Toggle on `Developer mode` in the top right corner of the window for managing extensions
 
@@ -62,5 +59,3 @@ Now, extension should appear in `Extensions` toolbar. I suggest to pin it
 2. Click on `Pin` icon near **DF_SoundCloud** extension
 
 </details>
-
-</br>
