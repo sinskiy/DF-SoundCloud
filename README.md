@@ -15,7 +15,7 @@ I believe that ***social medias are unnessesary*** in our lifes. I already left 
 
 *copied (and slightly edited) from [Seterra extra (my extension for Seterra)](https://github.com/Sinskiy/seterraextra) installation guide*
 
-1. Download [crx file from latest release file](https://github.com/Sinskiy/DF-SoundCloud/releases/tag/v1.0.0)
+1. Download [crx file from latest release file](https://github.com/Sinskiy/DF-SoundCloud/releases/latest)
 
 2. Go to window for managing extensions in your browser
 
